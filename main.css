@@ -1,0 +1,63 @@
+
+body {
+  display: flex;
+  background-color: #333333;
+  color: #eeeeee;
+  
+  
+
+}
+.main {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+#img-head {
+  width: 25%;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 20px auto 20px auto;
+  
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.btn {
+  background-color: #000000;
+  border-color: #444444;
+  margin: 5px;
+  color: #eeeeee;
+}
+
+.btn:hover {
+  background-color: #111111;
+  border-color: #666666;
+}
+
+.btn:active {
+  background-color: #222222;
+}
+
+.btn2 {
+  width: 20px;
+  border-radius: 5px;
+  
+}
+
+.github {
+  background-image: url("github-invertocat-white.png");
+}
+
+#linkedin {
+  background-image: url()
+}
